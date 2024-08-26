@@ -14,7 +14,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        <meta name="keywords" content="Mohd Uvaish, ItsMe Prince, Portfolio, Web Developer, Next.js, Tailwind CSS, Full Stack Developer" />
+        <meta name="keywords" content="Mohd Uvaish, ItsMe Prince, Website, Landing Page, Product WebPage, Web Developer, Next.js, Tailwind CSS, Full Stack Developer" />
         <meta name="author" content="Mohd Uvaish" />
       </head>
       <body className={`${inter.className} relative`}>
