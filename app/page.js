@@ -266,10 +266,11 @@ export default function LandingPage() {
       <div className="bg-gradient-to-r from-[#220029] to-black min-h-screen relative flex justify-center items-center overflow-hidden">
         <div className="z-20  text-white flex flex-col justify-center items-center gap-10 relative  mt-0 sm:mt-0 mb-0 sm:mb-0">
           <div className="text-4xl sm:text-6xl font-bold">Thank You For Visiting</div>
-          <div className="font-extralight">Made by @itsmeprinceyt</div>
+          <div className="font-extralight text-purple-200">Made by @itsmeprinceyt</div>
+          <Link className="underline text-xs text-purple-200 animate-pulse" href="https://github.com/itsmeprinceyt/kreomouse_nextjs" target="_blank">Repository</Link>
           <div className="flex gap-5">
             <Link 
-            className="hover:scale-125 border-2 p-4 rounded-full"
+            className="hover:scale-125 border-2 border-purple-700 p-4 rounded-full"
             href="https://www.linkedin.com/in/mohduvaish" target="_blank"><span className="[&>svg]:h-5 [&>svg]:w-5">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -280,7 +281,7 @@ export default function LandingPage() {
               </svg>
             </span></Link>
             <Link 
-            className="hover:scale-125 border-2 p-4 rounded-full"
+            className="hover:scale-125 border-2 border-purple-700 p-4 rounded-full"
             href="https://github.com/itsmeprinceyt" target="_blank"><span className="[&>svg]:h-5 [&>svg]:w-5">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -291,7 +292,7 @@ export default function LandingPage() {
               </svg>
             </span></Link>
             <Link
-            className="hover:scale-125 border-2 p-4 rounded-full"
+            className="hover:scale-125 border-2 border-purple-700 p-4 rounded-full"
             href="https://www.instagram.com/itsmeprinceyt" target="_blank"><span className="[&>svg]:h-5 [&>svg]:w-5">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -302,7 +303,7 @@ export default function LandingPage() {
               </svg>
             </span></Link>
             <Link
-            className="hover:scale-125 border-2 p-4 rounded-full"
+            className="hover:scale-125 border-2 border-purple-700 p-4 rounded-full"
             href="https://www.youtube.com/@itsmeprinceyt" target="_blank"><span className="[&>svg]:h-5 [&>svg]:w-5">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
