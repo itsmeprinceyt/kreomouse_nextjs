@@ -50,7 +50,7 @@ If you'd like to contribute to this project, follow these steps:
 
 ## Explanation Video
 
-
+https://youtu.be/XBjNNUiJzOA
 
 ## Live Development Stream
 
